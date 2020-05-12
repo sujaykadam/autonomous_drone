@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.exe.config
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.exe
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.pdb
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.Scherm_1.resources
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.Properties.Resources.resources
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.exe
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.pdb
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.exe.manifest
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.application
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.exe.manifest
+C:\Users\HP\Downloads\Autonomous Drone\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.application
